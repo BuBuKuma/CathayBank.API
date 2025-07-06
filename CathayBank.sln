@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CathayBank.API", "CathayBank.API\CathayBank.API.csproj", "{86F8559E-B1F1-4FEB-A4CB-EA18EFE8DC2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CathayBank.Tests", "CathayBank.Tests\CathayBank.Tests.csproj", "{1CDA6219-F219-4A36-A74F-04B5E6534005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F8559E-B1F1-4FEB-A4CB-EA18EFE8DC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F8559E-B1F1-4FEB-A4CB-EA18EFE8DC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F8559E-B1F1-4FEB-A4CB-EA18EFE8DC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F8559E-B1F1-4FEB-A4CB-EA18EFE8DC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CDA6219-F219-4A36-A74F-04B5E6534005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CDA6219-F219-4A36-A74F-04B5E6534005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CDA6219-F219-4A36-A74F-04B5E6534005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CDA6219-F219-4A36-A74F-04B5E6534005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DCE42AA-27BB-402C-B854-37BD95A63126}
+	EndGlobalSection
+EndGlobal
